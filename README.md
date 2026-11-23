@@ -1,20 +1,9 @@
-# GDIM 31 Final
+# GDIM 31 Final: 2D
 ## Devlogs
-### In-Class Activities
-#### W8
+### Milestone 1
 TODO.
 
-#### W9
-TODO.
-
-#### W10
-TODO.
-
-### Final Assignment Submissions
-#### Check-In
-TODO.
-
-#### Final
+### Milestone 2
 TODO.
 
 ## Open-Source Assets
