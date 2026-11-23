@@ -1,4 +1,4 @@
-# GDIM 31 Final: 3D
+# GDIM 31 Final: 2D
 ## Devlogs
 ### Milestone 1
 TODO.
