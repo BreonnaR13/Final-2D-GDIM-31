@@ -7,7 +7,10 @@ public class Player : MonoBehaviour
     [SerializeField] private GameObject _kickRight;
     [SerializeField] private GameController _gameController;
     // Add member variables to store references to this GameObject's 
-    //      Rigidbody, Animator, and SpriteRenderer.
+    //      Rigidbody, Animator, and SpriteRenderer. **DONE**
+    [SerializeField] private Rigidbody2D _rigidBody;
+    [SerializeField] private Animator _animator;
+    [SerializeField] private SpriteRenderer _render;
     [SerializeField] private float _speed;
     [SerializeField] private float _jump;
 
@@ -20,6 +23,11 @@ public class Player : MonoBehaviour
         // Change character facing with SpriteRenderer.flipX value
         // Set animation parameters 
 
+    private void Update()
+    {
+
+
+    }
     // ------------------------------------------------------------------------
     private void Kick()
     {
